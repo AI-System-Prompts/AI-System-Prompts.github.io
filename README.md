@@ -2,8 +2,8 @@
 
 > The largest open-source collection of system prompts from major AI models — documented, analyzed, and version-tracked.
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/ai-system-prompts?style=flat-square)](https://github.com/yourusername/ai-system-prompts/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/ai-system-prompts?style=flat-square)](https://github.com/yourusername/ai-system-prompts/network)
+[![GitHub Stars](https://img.shields.io/github/stars/AI-System-Prompts/ai-system-prompts?style=flat-square)](https://github.com/yourusername/ai-system-prompts/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/AI-System-Prompts/ai-system-prompts?style=flat-square)](https://github.com/yourusername/ai-system-prompts/network)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 [![Last Updated](https://img.shields.io/badge/last%20updated-2025-blue?style=flat-square)]()
@@ -539,29 +539,6 @@ This is a community project maintained in spare time. If your PR is stalled, lea
 
 ---
 
-## 💖 Sponsorship
-
-This project is maintained entirely by volunteers in their spare time. If it's useful to you, consider sponsoring:
-
-**What your sponsorship funds:**
-
-- ⏱️ Time spent extracting and verifying new prompts
-- 🔧 API costs for behavioral testing
-- 🌐 Infrastructure (hosting, domain)
-- 📝 Writing detailed analysis documents
-
-**GitHub Sponsors tiers:**
-
-| Tier | Monthly | Perks |
-|------|---------|-------|
-| ☕ Coffee | $3 | Name in CONTRIBUTORS.md |
-| 🌟 Supporter | $10 | Early access to new prompt drops |
-| 🚀 Pro | $25 | Discord access + request queue priority |
-| 🏢 Team | $100 | Company logo in README + dedicated support |
-
-[**❤️ Sponsor this project →**](https://github.com/sponsors/yourusername)
-
----
 
 ## 📜 License & Ethics
 
@@ -594,13 +571,3 @@ This project would not exist without:
 - The AI companies who, sometimes unintentionally, produced fascinating work worth studying
 
 ---
-
-<div align="center">
-
-**If this project helped you, please ⭐ star the repository!**
-
-It helps more people find it, and it helps us justify the time we spend on it.
-
-[⭐ Star on GitHub](https://github.com/yourusername/ai-system-prompts) · [💬 Join Discussion](https://github.com/yourusername/ai-system-prompts/discussions) · [🐛 Report Issue](https://github.com/yourusername/ai-system-prompts/issues) · [💖 Sponsor](https://github.com/sponsors/yourusername)
-
-</div>
