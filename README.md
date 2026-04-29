@@ -2,8 +2,8 @@
 
 > The largest open-source collection of system prompts from major AI models — documented, analyzed, and version-tracked.
 
-[![GitHub Stars](https://img.shields.io/github/stars/AI-System-Prompts/ai-system-prompts?style=flat-square)](https://github.com/yourusername/ai-system-prompts/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/AI-System-Prompts/ai-system-prompts?style=flat-square)](https://github.com/yourusername/ai-system-prompts/network)
+[![GitHub Stars](https://img.shields.io/github/stars/AI-System-Prompts/ai-system-prompts?style=flat-square)](https://github.com//ai-system-prompts/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/AI-System-Prompts/ai-system-prompts?style=flat-square)](https://github.com/ai-system-prompts/network)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 [![Last Updated](https://img.shields.io/badge/last%20updated-2025-blue?style=flat-square)]()
